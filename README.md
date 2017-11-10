@@ -1,4 +1,4 @@
-# data_science_bookmarks
+### Data Science Bookmarks :book:
 A list of wonderful blogs, articles, papers, ... related to data science
 
 Work in progress
