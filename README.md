@@ -1,5 +1,5 @@
 ### Data Science Bookmarks :book:
-A list of wonderful blogs, articles, papers, ... related to Data Science
+Stay up to date and learn from a list of wonderful blogs, books, papers, and code related to Data Science.
 
 Work in progress :construction_worker: - Contributions welcome :smile: - Please let me know if any link is broken :link:
 
@@ -19,11 +19,35 @@ With contributions from everyone, this can become a comprehensive list of resour
 - Papers:
   - [Bayesian GAN](https://arxiv.org/pdf/1705.09558.pdf) - The Bayesian GAN!
   - [Attention is all you need](https://arxiv.org/pdf/1706.03762.pdf) - The importance of new attention mechanism, Transformer, for machine translation tasks.
-  - [Google’s Multilingual Neural Machine Translation System: Enabling Zero-Shot Translation](https://arxiv.org/pdf/1611.04558.pdf) - As the name implies, a multilingual translation system that makes use of an artificial token to specify target language before training. 
 - Blogs:
 - Code:
   - [Pokemon GAN](https://github.com/llSourcell/Pokemon_GAN)
   - [Bayesian Generative Adversarial Networks in Tensorflow](https://github.com/andrewgordonwilson/bayesgan)
+
+---
+
+### Natural Language Processing
+- Books:
+  - [Natural Language Processing - A Friendly Handbook (Elvis Saravia, 2017)](https://goo.gl/PTy9QS)
+- Slides:
+- Series:
+- People:
+- Papers:
+  - [Google’s Multilingual Neural Machine Translation System: Enabling Zero-Shot Translation](https://arxiv.org/pdf/1611.04558.pdf) - As the name implies, a multilingual translation system that makes use of an artificial token to specify target language before training. 
+- Blogs / Web:
+- Code
+
+---
+
+### Machine Learning
+- Books:
+  - [Machine Learning - A Friendly Handbook (Elvis Saravia, 2017)](https://goo.gl/oWBYQQ)
+- Slides
+- Series:
+- People:
+- Papers:
+- Blogs / Web:
+- Code
 
 ---
 
@@ -53,18 +77,6 @@ With contributions from everyone, this can become a comprehensive list of resour
 
 ---
 
-### Natural Language Processing
-- Books:
-  - [Natural Language Processing - A Friendly Handbook (Elvis Saravia, 2017)](https://goo.gl/PTy9QS)
-- Slides:
-- Series:
-- People:
-- Papers:
-- Blogs / Web:
-- Code
-
----
-
 ### Computational Mathematics
 - Books:
 - Slides
@@ -86,13 +98,3 @@ With contributions from everyone, this can become a comprehensive list of resour
   - [Probability Theory - Lectures by Professor Chaur-Chin Chen](https://goo.gl/9djNqr)
 - Code
 ---
-
-### Machine Learning
-- Books:
-  - [Machine Learning - A Friendly Handbook (Elvis Saravia, 2017)](https://goo.gl/oWBYQQ)
-- Slides
-- Series:
-- People:
-- Papers:
-- Blogs / Web:
-- Code
