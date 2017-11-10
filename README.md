@@ -1,7 +1,7 @@
 ### Data Science Bookmarks :book:
 A list of wonderful blogs, articles, papers, ... related to data science
 
-Work in progress - Contributions welcome :happy:
+Work in progress - Contributions welcome :smile:
 
 
 ### Deep Learning
