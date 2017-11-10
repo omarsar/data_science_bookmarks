@@ -4,6 +4,7 @@ A list of wonderful blogs, articles, papers, ... related to Data Science
 Work in progress :construction_worker: - Contributions welcome :smile: - Please let me know if any link is broken :link:
 
 With contributions from everyone, this can become a comprehensive list of resources for learners. 
+
 ---
 
 ### Deep Learning
