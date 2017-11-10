@@ -17,11 +17,13 @@ With contributions from everyone, this can become a comprehensive list of resour
   - [Adit Deshpande](https://github.com/adeshpande3) - Very cool kid (undergrad) writing all sorts of ML/DL stuff
   - [Siraj](https://github.com/llSourcell) - If you are a regular YouTuber, this guy needs no introduction. All-around friendly and helpful educator!
 - Papers:
-  - [Bayesian GAN](https://arxiv.org/pdf/1705.09558.pdf)
+  - [Bayesian GAN](https://arxiv.org/pdf/1705.09558.pdf) - The Bayesian GAN!
+  - [Attention is all you need](https://arxiv.org/pdf/1706.03762.pdf) - The importance of new attention mechanism, Transformer, for machine translation tasks.
+  - [Google’s Multilingual Neural Machine Translation System: Enabling Zero-Shot Translation](https://arxiv.org/pdf/1611.04558.pdf) - As the name implies, a multilingual translation system that makes use of an artificial token to specify target language before training. 
 - Blogs:
 - Code:
   - [Pokemon GAN](https://github.com/llSourcell/Pokemon_GAN)
-  - [Bayesian Generative Adverserial Networks in Tensorflow](https://github.com/andrewgordonwilson/bayesgan)
+  - [Bayesian Generative Adversarial Networks in Tensorflow](https://github.com/andrewgordonwilson/bayesgan)
 
 ---
 
@@ -85,7 +87,7 @@ With contributions from everyone, this can become a comprehensive list of resour
 - Code
 ---
 
-### Machine Learnining
+### Machine Learning
 - Books:
   - [Machine Learning - A Friendly Handbook (Elvis Saravia, 2017)](https://goo.gl/oWBYQQ)
 - Slides
