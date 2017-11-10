@@ -42,7 +42,9 @@ With contributions from everyone, this can become a comprehensive list of resour
 ### Machine Learning
 - Books:
   - [Machine Learning - A Friendly Handbook (Elvis Saravia, 2017)](https://goo.gl/oWBYQQ)
-- Slides
+- Slides:
+  - [Multi-Class Logistic Regression and Perceptron](https://cocoxu.github.io/courses/5525_slides_spring17/06_perceptron.pdf) - Learn about multi-class classification with logistic regression and differences between logistic regression and perceptrons. 
+
 - Series:
 - People:
 - Papers:
