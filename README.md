@@ -2,6 +2,7 @@
 A list of wonderful blogs, articles, papers, ... related to data science
 
 Work in progress :construction_worker: - Contributions welcome :smile:
+Please let me know if any link is broken :link:
 
 ---
 
@@ -13,8 +14,11 @@ Work in progress :construction_worker: - Contributions welcome :smile:
   - [Deep Learning Research Review (GAN, NLP, Reinforcement Learning, ...)](https://goo.gl/PwwmMH)
 - People:
   - [Adit Deshpande](https://github.com/adeshpande3) - Very cool kid (undergrad) writing all sorts of ML/DL stuff
+  - [Siraj](https://github.com/llSourcell) - If you are a regular YouTuber, this guy needs no introduction. All-around friendly and helpful educator!
 - Papers:
 - Blogs:
+- Code:
+  - [Pokemon GAN](https://github.com/llSourcell/Pokemon_GAN)
 
 ---
 
@@ -26,7 +30,8 @@ Work in progress :construction_worker: - Contributions welcome :smile:
   - [The Friendly Data Science Series (Elvis Saravia)](https://goo.gl/U4RaU3)
 - People:
 - Papers:
-- Blogs:
+- Blogs / Web:
+- Code:
 
 ---
 
@@ -39,6 +44,7 @@ Work in progress :construction_worker: - Contributions welcome :smile:
 - People:
 - Papers:
 - Blogs / Web:
+- Code
 
 ---
 
@@ -50,6 +56,7 @@ Work in progress :construction_worker: - Contributions welcome :smile:
 - People:
 - Papers:
 - Blogs / Web:
+- Code
 
 ---
 
@@ -61,7 +68,7 @@ Work in progress :construction_worker: - Contributions welcome :smile:
 - Papers:
 - Blogs / Web: 
   - [Computational Mathematics - Lectures by Professor Chaur-Chin Chen](https://goo.gl/X5MXs2)
-
+- Code
 ---
 
 ### Probability Theory & Statistics
@@ -72,7 +79,7 @@ Work in progress :construction_worker: - Contributions welcome :smile:
 - Papers:
 - Blogs / Web:
   - [Probability Theory - Lectures by Professor Chaur-Chin Chen](https://goo.gl/9djNqr)
-
+- Code
 ---
 
 ### Machine Learnining
@@ -83,3 +90,4 @@ Work in progress :construction_worker: - Contributions welcome :smile:
 - People:
 - Papers:
 - Blogs / Web:
+- Code
