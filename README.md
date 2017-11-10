@@ -12,7 +12,7 @@ Work in progress :construction_worker: - Contributions welcome :smile:
 - Series:
   - [Deep Learning Research Review (GAN, NLP, Reinforcement Learning, ...)](https://goo.gl/PwwmMH)
 - People:
-  - [Adit Deshpande](https://github.com/adeshpande3)
+  - [Adit Deshpande](https://github.com/adeshpande3) - Very cool kid (undergrad) writing all sorts of ML/DL stuff
 - Papers:
 - Blogs:
 
