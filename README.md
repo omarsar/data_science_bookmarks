@@ -35,7 +35,7 @@ Work in progress :construction_worker: - Contributions welcome :smile:
 - Slides:
   - [Quick Tour of Data Mining (Professor Yi-Shin Chen, 2017)](https://goo.gl/UAooLX)
 - Series:
-  - - [The Friendly Data Science Series (Elvis Saravia)](https://goo.gl/U4RaU3)
+  - [The Friendly Data Science Series (Elvis Saravia)](https://goo.gl/U4RaU3)
 - People:
 - Papers:
 - Blogs / Web:
