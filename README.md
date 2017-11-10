@@ -23,6 +23,7 @@ Work in progress :construction_worker: - Contributions welcome :smile:
 - Slides:
   - [Quick Tour of Text Mining (Professor Yi-Shin Chen, 2017)](https://goo.gl/KaqBc5)
 - Series:
+  - [The Friendly Data Science Series (Elvis Saravia)](https://goo.gl/U4RaU3)
 - People:
 - Papers:
 - Blogs:
@@ -34,6 +35,7 @@ Work in progress :construction_worker: - Contributions welcome :smile:
 - Slides:
   - [Quick Tour of Data Mining (Professor Yi-Shin Chen, 2017)](https://goo.gl/UAooLX)
 - Series:
+  - - [The Friendly Data Science Series (Elvis Saravia)](https://goo.gl/U4RaU3)
 - People:
 - Papers:
 - Blogs / Web:
@@ -58,7 +60,7 @@ Work in progress :construction_worker: - Contributions welcome :smile:
 - People:
 - Papers:
 - Blogs / Web: 
-  - [Lectures by Professor Chaur-Chin Chen](https://goo.gl/X5MXs2)
+  - [Computational Mathematics - Lectures by Professor Chaur-Chin Chen](https://goo.gl/X5MXs2)
 
 ---
 
@@ -69,7 +71,7 @@ Work in progress :construction_worker: - Contributions welcome :smile:
 - People:
 - Papers:
 - Blogs / Web:
-  - [Lectures by Professor Chaur-Chin Chen)](https://goo.gl/9djNqr)
+  - [Probability Theory - Lectures by Professor Chaur-Chin Chen](https://goo.gl/9djNqr)
 
 ---
 
