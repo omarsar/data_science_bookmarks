@@ -1,5 +1,5 @@
 ### Data Science Bookmarks :book:
-A list of wonderful blogs, articles, papers, ... related to data science
+A list of wonderful blogs, articles, papers, ... related to Data Science
 
 Work in progress :construction_worker: - Contributions welcome :smile: - Please let me know if any link is broken :link:
 
@@ -16,9 +16,11 @@ With contributions from everyone, this can become a comprehensive list of resour
   - [Adit Deshpande](https://github.com/adeshpande3) - Very cool kid (undergrad) writing all sorts of ML/DL stuff
   - [Siraj](https://github.com/llSourcell) - If you are a regular YouTuber, this guy needs no introduction. All-around friendly and helpful educator!
 - Papers:
+  - [Bayesian GAN](https://arxiv.org/pdf/1705.09558.pdf)
 - Blogs:
 - Code:
   - [Pokemon GAN](https://github.com/llSourcell/Pokemon_GAN)
+  - [Bayesian Generative Adverserial Networks in Tensorflow](https://github.com/andrewgordonwilson/bayesgan)
 
 ---
 
