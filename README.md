@@ -20,6 +20,9 @@ With contributions from everyone, this can become a comprehensive list of resour
   - [Bayesian GAN](https://arxiv.org/pdf/1705.09558.pdf) - The Bayesian GAN!
   - [Attention is all you need](https://arxiv.org/pdf/1706.03762.pdf) - The importance of new attention mechanism, Transformer, for machine translation tasks.
 - Blogs:
+  - [What is a CapsNet or Capsule Network?](https://hackernoon.com/what-is-a-capsnet-or-capsule-network-2bfbe48769cc)
+  - [Attention and Memory in Deep Learning and NLP](http://www.wildml.com/2016/01/attention-and-memory-in-deep-learning-and-nlp/)
+  - [A Tutorial on Deep Learning Part 2: Autoencoders, Convolutional Neural Networks and Recurrent Neural Networks](http://ai.stanford.edu/~quocle/tutorial2.pdf)
 - Code:
   - [Pokemon GAN](https://github.com/llSourcell/Pokemon_GAN)
   - [Bayesian Generative Adversarial Networks in Tensorflow](https://github.com/andrewgordonwilson/bayesgan)
@@ -44,12 +47,13 @@ With contributions from everyone, this can become a comprehensive list of resour
   - [Machine Learning - A Friendly Handbook (Elvis Saravia, 2017)](https://goo.gl/oWBYQQ)
 - Slides:
   - [Multi-Class Logistic Regression and Perceptron](https://cocoxu.github.io/courses/5525_slides_spring17/06_perceptron.pdf) - Learn about multi-class classification with logistic regression and differences between logistic regression and perceptrons. 
-
 - Series:
 - People:
 - Papers:
+  - [Dynamic Routing Between Capsules](https://arxiv.org/pdf/1710.09829.pdf) - Capsule-based networks that perform better than a convolutional net on MNIST. Basically, a new look to neurons or units! Follow up paper here
 - Blogs / Web:
-- Code
+- Code:
+  - [Capsule Nets implementation on Tensorflow](https://github.com/naturomics/CapsNet-Tensorflow)
 
 ---
 
