@@ -26,6 +26,8 @@ With contributions from everyone, this can become a comprehensive list of resour
 - Code:
   - [Pokemon GAN](https://github.com/llSourcell/Pokemon_GAN)
   - [Bayesian Generative Adversarial Networks in Tensorflow](https://github.com/andrewgordonwilson/bayesgan)
+- Tools:
+  - [Pyro](http://pyro.ai/) - Deep Universal Probabilistic Programming based on Python 
 
 ---
 
@@ -38,7 +40,9 @@ With contributions from everyone, this can become a comprehensive list of resour
 - Papers:
   - [Google’s Multilingual Neural Machine Translation System: Enabling Zero-Shot Translation](https://arxiv.org/pdf/1611.04558.pdf) - As the name implies, a multilingual translation system that makes use of an artificial token to specify target language before training. 
 - Blogs / Web:
+  - [Two Novel Approaches for Unsupervised Machine Translation](http://ankitg.me/blog/2017/11/05/unsupervised-machine-translation.html) - About unsupervised machine translation methods.
 - Code
+  - [Deep NLP with PyTorch](https://github.com/DSKSD/DeepNLP-models-Pytorch)
 
 ---
 
