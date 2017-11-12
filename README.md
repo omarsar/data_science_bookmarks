@@ -36,9 +36,11 @@ With contributions from everyone, this can become a comprehensive list of resour
   - [Natural Language Processing - A Friendly Handbook (Elvis Saravia, 2017)](https://goo.gl/PTy9QS)
 - Slides:
 - Series:
+  - [Stanford-NLP with Deep Learning](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)
 - People:
 - Papers:
-  - [Google’s Multilingual Neural Machine Translation System: Enabling Zero-Shot Translation](https://arxiv.org/pdf/1611.04558.pdf) - As the name implies, a multilingual translation system that makes use of an artificial token to specify target language before training. 
+  - [Google’s Multilingual Neural Machine Translation System: Enabling Zero-Shot Translation](https://arxiv.org/pdf/1611.04558.pdf) - As the name implies, a multilingual translation system that makes use of an artificial token to specify target language before training.
+  - [Back of Tricks for Efficient Text Classification](https://arxiv.org/pdf/1607.01759.pdf) - From the Facebook AI Research Team. 
 - Blogs / Web:
   - [Two Novel Approaches for Unsupervised Machine Translation](http://ankitg.me/blog/2017/11/05/unsupervised-machine-translation.html) - About unsupervised machine translation methods.
 - Code
@@ -54,7 +56,7 @@ With contributions from everyone, this can become a comprehensive list of resour
 - Series:
 - People:
 - Papers:
-  - [Dynamic Routing Between Capsules](https://arxiv.org/pdf/1710.09829.pdf) - Capsule-based networks that perform better than a convolutional net on MNIST. Basically, a new look to neurons or units! Follow up paper here
+  - [Dynamic Routing Between Capsules](https://arxiv.org/pdf/1710.09829.pdf) - Capsule-based networks that perform better than a convolutional net on MNIST. Basically, a new look to neurons or units!
 - Blogs / Web:
 - Code:
   - [Capsule Nets implementation on Tensorflow](https://github.com/naturomics/CapsNet-Tensorflow)
