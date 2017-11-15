@@ -44,7 +44,8 @@ With contributions from everyone, this can become a comprehensive list of resour
 - Blogs / Web:
   - [Two Novel Approaches for Unsupervised Machine Translation](http://ankitg.me/blog/2017/11/05/unsupervised-machine-translation.html) - About unsupervised machine translation methods.
 - Code
-  - [Deep NLP with PyTorch](https://github.com/DSKSD/DeepNLP-models-Pytorch)
+  - [Deep NLP with Pytorch](https://github.com/DSKSD/DeepNLP-models-Pytorch)
+  - [DeepLearning For NLP with Pytorch](https://github.com/rguthrie3/DeepLearningForNLPInPytorch)
 
 ---
 
