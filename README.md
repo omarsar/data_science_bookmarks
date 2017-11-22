@@ -13,6 +13,7 @@ With contributions from everyone, this can become a comprehensive list of resour
 - Slides:
 - Series:
   - [Deep Learning Research Review (GAN, NLP, Reinforcement Learning, ...)](https://goo.gl/PwwmMH)
+  - [Montreal Institute for Learning Algorithms](https://github.com/mila-udem/welcome_tutorials)
 - People:
   - [Adit Deshpande](https://github.com/adeshpande3) - Very cool kid (undergrad) writing all sorts of ML/DL stuff
   - [Siraj](https://github.com/llSourcell) - If you are a regular YouTuber, this guy needs no introduction. All-around friendly and helpful educator!
