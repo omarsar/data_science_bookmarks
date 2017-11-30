@@ -35,10 +35,13 @@ With contributions from everyone, this can become a comprehensive list of resour
 ### Natural Language Processing
 - Books:
   - [Natural Language Processing - A Friendly Handbook (Elvis Saravia, 2017)](https://goo.gl/PTy9QS)
+  - [Speech and Language Processing] (https://web.stanford.edu/~jurafsky/slp3/ed3book.pdf)
 - Slides:
+  - [Stanford NLP](https://web.stanford.edu/~jurafsky/NLPCourseraSlides.html)
 - Series:
   - [Stanford-NLP with Deep Learning](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)
 - People:
+  - [Dan Jurafsky - An NLP magician!] (https://web.stanford.edu/~jurafsky/)
 - Papers:
   - [Google’s Multilingual Neural Machine Translation System: Enabling Zero-Shot Translation](https://arxiv.org/pdf/1611.04558.pdf) - As the name implies, a multilingual translation system that makes use of an artificial token to specify target language before training.
   - [Back of Tricks for Efficient Text Classification](https://arxiv.org/pdf/1607.01759.pdf) - From the Facebook AI Research Team. 
