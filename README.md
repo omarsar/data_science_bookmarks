@@ -20,10 +20,12 @@ With contributions from everyone, this can become a comprehensive list of resour
 - Papers:
   - [Bayesian GAN](https://arxiv.org/pdf/1705.09558.pdf) - The Bayesian GAN!
   - [Attention is all you need](https://arxiv.org/pdf/1706.03762.pdf) - The importance of new attention mechanism, Transformer, for machine translation tasks.
+  - [StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation](https://arxiv.org/pdf/1711.09020.pdf)
 - Blogs:
   - [What is a CapsNet or Capsule Network?](https://hackernoon.com/what-is-a-capsnet-or-capsule-network-2bfbe48769cc)
   - [Attention and Memory in Deep Learning and NLP](http://www.wildml.com/2016/01/attention-and-memory-in-deep-learning-and-nlp/)
   - [A Tutorial on Deep Learning Part 2: Autoencoders, Convolutional Neural Networks and Recurrent Neural Networks](http://ai.stanford.edu/~quocle/tutorial2.pdf)
+  - [Generate your own sounds with NSynth](https://magenta.tensorflow.org/nsynth-fastgen)
 - Code:
   - [Pokemon GAN](https://github.com/llSourcell/Pokemon_GAN)
   - [Bayesian Generative Adversarial Networks in Tensorflow](https://github.com/andrewgordonwilson/bayesgan)
