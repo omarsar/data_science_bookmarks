@@ -3,7 +3,7 @@ Stay up to date and learn from a list of wonderful blogs, books, papers, and cod
 
 Work in progress :construction_worker: - Contributions welcome :smile: - Please let me know if any link is broken :link:
 
-With contributions from everyone, this can become a comprehensive list of resources for learners. 
+With contributions from everyone, this can become a comprehensive list of resources for learners.
 
 ---
 
@@ -30,7 +30,7 @@ With contributions from everyone, this can become a comprehensive list of resour
   - [Pokemon GAN](https://github.com/llSourcell/Pokemon_GAN)
   - [Bayesian Generative Adversarial Networks in Tensorflow](https://github.com/andrewgordonwilson/bayesgan)
 - Tools:
-  - [Pyro](http://pyro.ai/) - Deep Universal Probabilistic Programming based on Python 
+  - [Pyro](http://pyro.ai/) - Deep Universal Probabilistic Programming based on Python
 
 ---
 
@@ -46,20 +46,22 @@ With contributions from everyone, this can become a comprehensive list of resour
   - [Dan Jurafsky - An NLP magician!] (https://web.stanford.edu/~jurafsky/)
 - Papers:
   - [Google’s Multilingual Neural Machine Translation System: Enabling Zero-Shot Translation](https://arxiv.org/pdf/1611.04558.pdf) - As the name implies, a multilingual translation system that makes use of an artificial token to specify target language before training.
-  - [Back of Tricks for Efficient Text Classification](https://arxiv.org/pdf/1607.01759.pdf) - From the Facebook AI Research Team. 
+  - [Back of Tricks for Efficient Text Classification](https://arxiv.org/pdf/1607.01759.pdf) - From the Facebook AI Research Team.
 - Blogs / Web:
   - [Two Novel Approaches for Unsupervised Machine Translation](http://ankitg.me/blog/2017/11/05/unsupervised-machine-translation.html) - About unsupervised machine translation methods.
 - Code
+  - [Awesome NLP](https://github.com/keon/awesome-nlp)
   - [Deep NLP with Pytorch](https://github.com/DSKSD/DeepNLP-models-Pytorch)
   - [DeepLearning For NLP with Pytorch](https://github.com/rguthrie3/DeepLearningForNLPInPytorch)
-
+- Courses:
+  - [CS224d: Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/syllabus.html)
 ---
 
 ### Machine Learning
 - Books:
   - [Machine Learning - A Friendly Handbook (Elvis Saravia, 2017)](https://goo.gl/oWBYQQ)
 - Slides:
-  - [Multi-Class Logistic Regression and Perceptron](https://cocoxu.github.io/courses/5525_slides_spring17/06_perceptron.pdf) - Learn about multi-class classification with logistic regression and differences between logistic regression and perceptrons. 
+  - [Multi-Class Logistic Regression and Perceptron](https://cocoxu.github.io/courses/5525_slides_spring17/06_perceptron.pdf) - Learn about multi-class classification with logistic regression and differences between logistic regression and perceptrons.
 - Series:
 - People:
 - Papers:
@@ -102,7 +104,7 @@ With contributions from everyone, this can become a comprehensive list of resour
 - Series:
 - People:
 - Papers:
-- Blogs / Web: 
+- Blogs / Web:
   - [Computational Mathematics - Lectures by Professor Chaur-Chin Chen](https://goo.gl/X5MXs2)
 - Code
 ---
